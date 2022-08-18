@@ -6,14 +6,12 @@
 <br>
 
 ##  Overview of Cloud Service Models
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@7edc4597c821482aaa4ee9a380ba2edf/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/cfa9d9d4896b421580cbc41946933d2b/?child=first)
 - __SaaS__: Anyone, Youtube-user / easiest to use
 - __PaaS__: Dev _(Jane)_
 - __IaaS__: System-Admin / most complex<p><img src="https://user-images.githubusercontent.com/60066472/85106613-73983b00-b247-11ea-819d-431d8e0694ab.PNG" width="450"></p>
 <br>
 
 ##  IaaS
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@3e161265f05b47e29027ad41449ef42b/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/966d958ad1de4869b7261933cc22ed80/?child=first)
 - __Infrastructure-as-a-Service__
     - delivers fundamental compute, network, and storage resources to consumers on-demand
     - customers can create or provision virtual machines in their choice of Region and Zone available from the Cloud Provider.<p><img src="https://user-images.githubusercontent.com/60066472/85106993-27012f80-b248-11ea-8a34-e31a4b6d435a.PNG" width="400"></p>
@@ -32,7 +30,6 @@
 <br>
 
 ##  PaaS
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@7469c2723e7243a98b6d59b81216200a/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/6fdae28eb0174155bab4e328d7413d25/?child=first)
 - __Platform-as-a-Service__
     - provides customers a complete platform—hardware, software, and infrastructure—to develop, deploy, manage, and run applications created by them or acquired from a third-party.
     - hosts everything—servers, networks, storage, operating system, application runtimes, APIs, middleware, databases, and other tools—at their data center.
@@ -57,7 +54,6 @@ Cloud, Force.com, and Apache Stratos.
 <br>
 
 ##  Saas
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@ba63830ea23043a185b5700e71d1b37d/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/19466cff3d494847b827a098a63c3c17/?child=first)
 - __Software as a Service__
     - provides users with access to a service provider’s cloud-based software.
 - __6 Key Characteristics__
@@ -84,7 +80,6 @@ Cloud, Force.com, and Apache Stratos.
 <br>
 
 ##  Public Cloud
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@0bcbac3304194b7b8d122c88df05c89b/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/4530c968727749c4b3a7ea7f1257095f/?child=first)
 - __Deplyment models indicate ...__
     - where the infrastructure resides
     - who owns and manages it
@@ -108,7 +103,6 @@ Cloud, Force.com, and Apache Stratos.
 <br>
 
 ##  Private Cloud
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@2ed21ff3395f4103a6530f24556c67ed/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/22b6d672d99a46fea67cc7bf5f485cb5/?child=first)
 - __Private Cloud__
     - NIST's definition
         - cloud infrastructure provisioned for exclusive use by a single organization comprising multiple consumers, such as the business units within the organization.
@@ -127,7 +121,6 @@ Cloud, Force.com, and Apache Stratos.
 <br>
 
 ##  Hybrid Cloud
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@ca793791c61e46ddb1be16fece230f70/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/5c2e253e37014dc7ba5b82a06f43520a/?child=first)
 - __Hybrid Cloud__
     - mix of public and private cloud
     - connects an organization’s on-premise private cloud and third-party public cloud into a single, flexible infrastructure for running the organization’s applications and workloads.
@@ -159,32 +152,6 @@ Cloud, Force.com, and Apache Stratos.
     - In the Public cloud model, the service provider owns, manages, provisions, and maintains the physical infrastructure such as data centers, servers, networking equipment, and storage, with users accessing virtualized compute, networking, and storage resources as services.
     - In the Private cloud model, the provider provisions the cloud infrastructure for exclusive use by a single organization. The private cloud infrastructure can be internal to the organization and run or on-premises. Or, it can be on a public cloud, as in the case of Virtual Private Clouds (VPC) and be owned, managed, and operated by the cloud provider.
     - In the Hybrid cloud model, an organization’s on-premise private cloud and third-party, public cloud is connected as a single, flexible infrastructure leveraging the features and benefits of both Public and Private clouds.
-<br>
-
-
-## Graded Quiz
-- Which are some of the key components of cloud infrastructure? Select two.
-    ```
-    ▷ IaaS providers manage the hypervisors and provision virtual instances
-    ▷ IaaS providers deploy the middleware and install required applications on the virtual machines
-    ▶ IaaS providers manage large data centers that contain the physical machines required to power the various layers of abstraction on top of them
-    ▶ IaaS providers manage the hypervisors and end-users provision the virtual instances
-    ```
-- According to the video, which of these statements are true of Virtual Private Clouds (VPCs)? Select two.
-    ```
-    ▶ VPCs are provisioned in a logically isolated part of a shared public cloud
-    ▶ The VPC infrastructure is owned, managed, and operated by the public cloud service provider
-    ▷ VPCs may be provisioned over a cloud service provider’s infrastructure, but the infrastructure is owned, managed, and operated by the enterprise
-    ▷ VPC allows all users of the shared public cloud to access resources in the VPC on need basis; it also allows users of the VPC to access resources of the public cloud
-    ```
-- If an organization needs to run a highly sensitive and mission critical application with unpredictable performance and capacity requirements, which of the following models would best meet its requirements?
-    ```
-    ▶ Hybrid Cloud correct
-    ▷ On-premise Data Centers
-    ▷ Private Cloud
-    ▷ Public Cloud
-
-    ```
 <br>
 
 

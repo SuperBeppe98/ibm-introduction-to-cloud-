@@ -6,7 +6,6 @@
 <br>
 
 ## Cloud Adoption - No longer a choice
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@6c08376fc78145cbb19841ab4081489f/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/cebe808156264c81acef994207431168/?child=first)
 - __IBM Institute for Business Value study__
     - more than three-quarters of enterprises today are using cloud computing to expand into new industries.
     - 74% have adopted cloud to improve customer experience
@@ -18,7 +17,6 @@
 <br>
 
 ## Cloud Adoption - Some case studies
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@4da9a10aa0584e07a0d3786369f18f4a/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/42db4a406f0f4cfd9c408fa9dbda2d8f/?child=first)
 - __American Airlines__ _(better customer service)_
     - New cloud-based technology platform
 - __UBank__ _(removing barriers to innovation)_
@@ -32,7 +30,6 @@
 <br>
 
 ## Internet of Things on the Cloud
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@2aa3a11754684c439572f9de29114665/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/8a0401562b0a47d78f39b8a8d4d646b9/?child=first)
 - __IoT__
     - giant network of connected things and people that have changed much of how we live our daily lives.
     - smart devices and sensors are continuously tracking and collecting data.<p><img src="https://user-images.githubusercontent.com/60066472/85102578-eb626780-b23f-11ea-9b27-f0b64680d6b0.PNG" width="300"></p>
@@ -50,7 +47,6 @@
 <br>
 
 ## Artificial Intelligence on the Cloud
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@473dd304c6b74eb087f59cf5c6eb30f8/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/5577cef2f6e14a11bcf590623ccbd5c6/?child=first)
 - __Symbiotic Relationship among AI, IoT, and Cloud__
     - IoT delivers the data
     - AI powers the insights
@@ -61,8 +57,7 @@
 <br>
 
 ## Blockchain and Analytics on the Cloud
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@27d80a15c5ba49838a40168031984225/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/34abb97d94c545db923e7ec2c177a30a/?child=first)
-- __Blockchain___
+- __Blockchain__
     - a secure, distributed, open technology that can help speed up processes, lower costs, and build transparency and traceability in transactional applications.
     - immutable Network allowing members to view only those transactions that are relevant to them.
 - __3-Way Relationship among Blockchain, AI and Cloud__
@@ -95,28 +90,5 @@
 - The use of data analytics for driving predictive maintenance solutions for a city’s infrastructure by KONE
 <br>
 
-## Graded Quiz
-- An IBM Institute for Business Value study says that more than three-quarters of enterprises today are using cloud computing to expand into new industries. What additional benefits do organizations find when adopting the cloud:
-    ```
-    ▷ Avoid having to fail at all
-    ▷ Continue making expensive decisions because it often worked in the past
-    ▶ Improve customer experience and create enhanced products and services
-    ▷ Lengthen product lifecycles to ensure higher quality offerings
-    ```
-- What is the three-way symbiotic relationship between IoT, AI, and Cloud?
-    ```
-    ▷ Power, scale, dynamic nature, and economics of the cloud resources
-    ▷ AI consumes the data produced by IoT devices
-    ▶ IoT delivers the data, AI powers the insights, and both emerging technologies leverage cloud's scalability and processing power
-    ▷ Making sense of the endless streams of data from IoT devices
-    ```
-- What is the three-way relationship between blockchain, AI, and the Cloud?
-    ```
-    ▷ Globally distributed, scalable, and cost-efficient computing resources.
-    ▶ Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.
-    ▷ Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.
-    ▷ An immutable network allowing members to view only those transactions that are relevant to them.
-    ```
-<br>
 
 [Go to Next Module](./3_Service_and_Deployment_Models.md)

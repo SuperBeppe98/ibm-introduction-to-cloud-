@@ -10,7 +10,6 @@
 <br>
 
 ## Definition and Characteristics
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@14cd6d3701454c40a8a8f7ba5db93246/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/f239a895d195492397c899a5745e83c2/?child=first)
 - __Definition__
     - the delivery of on-demand computing resources (everything from applications to data centers) over the internet on a pay-for-use basis.
     - NIST's definition
@@ -33,7 +32,6 @@ and released with minimal management effort or service provider interaction.
 <br>
 
 ## History and Evolution
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@65a489a3c7c949faa2602e2495e145f8/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/f2a071ff5d6d4e42ab9bc083ab2c5575/?child=first)
 - __History__ : shared access(1950's) > virtual machine(1970's)
 - __Virtualization__
     - Hypervisor _(or virtual machine monitor, VMM)_ <p><img src="https://user-images.githubusercontent.com/60066472/85097554-d3d0b200-b232-11ea-9f8c-9240298c546d.PNG" width="300"></p>
@@ -42,7 +40,6 @@ and released with minimal management effort or service provider interaction.
 <br>
 
 ## Key Considerations
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@bfab99392dda47bb92b8bf25b7e42d12/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/0a9d452ecc844730818f96b5b35d1447/?child=first)
 - __Key Drivers for Moving to Cloud__
     - Agility, flexibility, and competitiveness
 - __4 Key Considerations__
@@ -58,7 +55,6 @@ and released with minimal management effort or service provider interaction.
 <br>
 
 ## Key Service Providers
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@b18364b57ce64a03a08978489c29cc7a/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/bba31d89ba184d028d79de9c5e7f101a/?child=first)
 - __Future of Clouding Computing__
     - The question is “what” their cloud adoption strategy should be to best serve their businesses and customers.
 - __Cloud Service Proviers__
@@ -88,28 +84,5 @@ with products and services <p><img src="https://user-images.githubusercontent.co
 - Some major Cloud providers of our times include AWS, Alibaba Cloud, Google, IBM Cloud, and Microsoft Azure.
 <br>
 
-## Graded Quiz
-- In the US National Institute of Standards and Technology, NIST, definition of "cloud computing", what does the statement "shared pool of configurable computing resources" include?
-  ```
-  ▷ Five essential characteristics, three deployment models, three service models
-  ▷ Data security, associated with loss or unavailability of data causing business disruption
-  ▷ Leverage cloud services over the open internet on hardware owned by the cloud provider
-  ▶ Networks, servers, storage, applications, and services
-  ```
-- What tasks do hypervisors accomplish? Select two.
-  ```
-  ▶ Enable multiple operating systems to run alongside each other, sharing the same physical computing resources.
-  ▷ Facilitate access to mainframes for multiple users to access the same data storage layer.
-  ▷ Scale on demand to support fluctuating workloads.
-  ▶ Separates VMs logically and assigns each a share of the underlying computing power, memory, and storage.
-  ```
-- What are some of the cloud benefits that make it lower risk for enterprises to adopt cloud? Select two.
-  ```
-  ▷ Data security associated with loss or unavailability of data causing business disruption
-  ▶ The pay-as-you-go model allows enterprises to experiment with technologies as opposed to making long-term decisions based on little or no trial.
-  ▷ Diversity of standardization in how the constantly evolving technologies integrate and interoperate.
-  ▶ The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.
-  ```
-<br>
 
 [Go to Next Module](./2_Cloud_Adoption.md)

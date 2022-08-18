@@ -6,7 +6,6 @@
 <br>
 
 ## Basics of Cloud Storage
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@30dbf5c22a1443f2a084f6dd3e4be7c4/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/d66368f99881453faeaa1458eeaefe4f/f43e0652da6b4e5786381a52f1dfa8b3/?child=first)
 - __Cloud Storage__
     - where data and files is saved in the cloud.
 - __4 Main Types__
@@ -23,7 +22,6 @@
 <br>
 
 ## File Storage
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@ec771ed5b5c2480f8b8b17f16fc69ba2/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/d66368f99881453faeaa1458eeaefe4f/c1a70a8950ca468098b9d3ad7595d69a/?child=first)
 - __File Storage__
     - must be attached to a compute node before it can be accessed and have data stored on it.
     - physical disks are contained in a specialised piece of hardware, connected to the compute node.
@@ -41,7 +39,6 @@
 <br>
 
 ## Block Storage
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@dcd1cf5c5c09491c9da11fb84c82cc84/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/d66368f99881453faeaa1458eeaefe4f/f06926dda48846e1a2a9dbaa4d57237d/?child=first)
 - __Block Storage__
     - breaks files into chunks (or blocks) of data and Stores each block separately under a unique address.
     - mounted as a volume to compute nodes using a dedicated network of fibres, through which signals move at the speed of light.
@@ -53,7 +50,6 @@
 <br>
 
 ## Object Storage Overview
-- [Transcript]() / [Video]()
 - __Object Storage__
     - not attached to a compute node, rather it is accessed via an API.
         - differs from the more traditional storage types such as File and Block Storage.
@@ -74,7 +70,6 @@
 <br>
 
 ## Object Storage - Tiers and APIs
-- [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/d66368f99881453faeaa1458eeaefe4f/cdbc2e4321a0491ca26f35b79ce442a9/?child=first)
 - __Object Storage Tiers__
     - based on hoe frequently the data is accessed
     - Standard Tier: frequently accessed
@@ -87,7 +82,6 @@
 <br>
 
 ## Content Delivery Networks
-- [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@bc1540640aaa47aca53d93365aaf07cc/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/d66368f99881453faeaa1458eeaefe4f/6fa3d2b9a7cb4fccb130722b3505623c/?child=first)
 - __CDN__
     - a distributed server network that accelerates Internet content delivery.
     - content delivery network endpoints are placed in as many locations around the world as possible
@@ -119,28 +113,5 @@
 ![scre](https://user-images.githubusercontent.com/60066472/85139290-28018380-b27f-11ea-896b-cb4bddb3f7aa.PNG)
 <br>
 
-## Graded Quiz
-- Which of these are features of Object Storage? Select two.
-    ```
-    ▷ Storage is attached to compute nodes using a fibre network
-    ▶ You can directly use Object Storage without attaching it to a compute node
-    ▷ Object Storage can be mounted on multiple compute nodes via an ethernet network
-    ▶ Object storage is effectively infinite
-    ```
-- There are four types of cloud storage available. Which storage type is ephemeral or non-persistent?
-    ```
-    ▷ Block storage
-    ▷ File storage
-    ▷ Object storage
-    ▶ Direct Attached storage
-    ```
-- What is the main benefit of a Content Delivery Network (CDN)?
-    ```
-    ▷ Enhanced control over network traffic by routing traffic to specified resources
-    ▶ Speed, it makes your website faster by serving files from a location closer to the user.
-    ▷ Distribute tasks, workloads, and network traffic
-    ▷ Network topology
-    ```
-<br>
 
 [Go to Next Module](./6_Emergent_Trends.md)
