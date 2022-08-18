@@ -110,7 +110,7 @@
     - Create a Bucket to store data
     - Add objects to your bucket
     - Share objects in your bucket
-![scre](https://user-images.githubusercontent.com/60066472/85139290-28018380-b27f-11ea-896b-cb4bddb3f7aa.PNG)
+![2022-08-18 20 51 44 cloud ibm com 745023d27698](https://user-images.githubusercontent.com/29455975/185472076-98976a20-a7da-4f14-98b0-34c53c9aa61b.jpg)
 <br>
 
 

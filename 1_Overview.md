@@ -73,7 +73,8 @@ with products and services <p><img src="https://user-images.githubusercontent.co
 ## Hands-on Lab: Create a Cloud Account
 - Create an IBM Cloud Account: [link](https://cocl.us/ibmcloud_cc_cc0101en)
 - [instruction](https://courses.cognitiveclass.ai/assets/courseware/v1/3e0986ec272fee2357f937d3e5f592b4/asset-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@asset+block/Lab1-Create_an_IBM_Cloud_Account-v1.pdf)
-- Screenshot <p><img src="https://user-images.githubusercontent.com/60066472/85099435-5a3bc280-b238-11ea-82b5-ef262218e6f2.PNG" width="600"></p>
+- Screenshot ![2022-08-18 20 53 57 cloud ibm com 813b84888c76](https://user-images.githubusercontent.com/29455975/185472307-b31a75ef-eecd-4de8-82ba-c0927c580d06.jpg)
+
 <br>
 
 ## Module Summary
