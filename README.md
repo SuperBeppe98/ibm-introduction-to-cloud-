@@ -9,7 +9,7 @@
 - Module 4: [Components of Cloud Computing](./4_Components.md)
 - Module 5: [Cloud Computing Storage and Content Delivery Networks](./5_Storage_and_Content_Delivery_Networks.md)
 - Module 6: [Emergent Trends, Cloud Native, DevOps, and Application Modernization](./6_Emergent_Trends.md)
-- [Final Exam](./7_Final_Exam.md)
+- Module 7: Final Exam
 <br>
 
 ## Course Overview
@@ -24,4 +24,4 @@
 <br>
 
 ## Badge & Certificate
-<p><img src="https://user-images.githubusercontent.com/60066472/85192741-9b96a580-b2fe-11ea-90d6-45d4ae893e17.PNG" width="500"></p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5535a75-f168-4806-a395-28c5dfa5fbad" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
