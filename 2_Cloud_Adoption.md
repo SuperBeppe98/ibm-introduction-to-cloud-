@@ -1,11 +1,11 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
-## :cloud: Learning Objectives
+## Learning Objectives
 - Describe the __business case for cloud adoption__ and case studies that demonstrate the impact businesses have created by adopting cloud
 - Explain how emerging technologies such as the __IoT, AI, Blockchain, and Analytics are being accelerated by the Cloud__
 <br>
 
-## :cloud: Cloud Adoption - No longer a choice
+## Cloud Adoption - No longer a choice
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@6c08376fc78145cbb19841ab4081489f/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/cebe808156264c81acef994207431168/?child=first)
 - __IBM Institute for Business Value study__
     - more than three-quarters of enterprises today are using cloud computing to expand into new industries.
@@ -17,7 +17,7 @@
     <p><img src="https://user-images.githubusercontent.com/60066472/85101450-6413f480-b23d-11ea-9263-1fb80b444822.PNG" width="400"></p>
 <br>
 
-## :cloud: Cloud Adoption - Some case studies
+## Cloud Adoption - Some case studies
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@4da9a10aa0584e07a0d3786369f18f4a/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/42db4a406f0f4cfd9c408fa9dbda2d8f/?child=first)
 - __American Airlines__ _(better customer service)_
     - New cloud-based technology platform
@@ -31,7 +31,7 @@
     - Back data storage, networking, & security on IBM Cloud
 <br>
 
-## :cloud: Internet of Things on the Cloud
+## Internet of Things on the Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@2aa3a11754684c439572f9de29114665/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/8a0401562b0a47d78f39b8a8d4d646b9/?child=first)
 - __IoT__
     - giant network of connected things and people that have changed much of how we live our daily lives.
@@ -49,7 +49,7 @@
         - When poachers enter the area, the animals run for it, which alerts Rangers who can track their emotions and help stop them before any harm is done.
 <br>
 
-## :cloud: Artificial Intelligence on the Cloud
+## Artificial Intelligence on the Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@473dd304c6b74eb087f59cf5c6eb30f8/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/5577cef2f6e14a11bcf590623ccbd5c6/?child=first)
 - __Symbiotic Relationship among AI, IoT, and Cloud__
     - IoT delivers the data
@@ -60,7 +60,7 @@
     - gives fans deep insight into featured matches, and it can see the momentum of a match shifting
 <br>
 
-## :cloud: Blockchain and Analytics on the Cloud
+## Blockchain and Analytics on the Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@27d80a15c5ba49838a40168031984225/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/6e19fb93fa7842d9b398f931f6f48b38/34abb97d94c545db923e7ec2c177a30a/?child=first)
 - __Blockchain___
     - a secure, distributed, open technology that can help speed up processes, lower costs, and build transparency and traceability in transactional applications.
@@ -80,7 +80,7 @@
         - equipment is connected to the cloud and monitored.
 <br>
 
-## :cloud: Module Summary
+## Module Summary
 - The adoption of cloud technologies is enabling enterprises, big and small, to be agile, innovative, and competitive, and to create differentiated customer experiences. The question organizations are asking is not whether they should move to the cloud, rather what strategy they should adopt to move to the cloud.
 - Some case studies that demonstrate the impact businesses have created by adopting cloud
     - American Airlines adopting cloud technologies to deliver customer value rapidly across its enterprise
@@ -95,7 +95,7 @@
 - The use of data analytics for driving predictive maintenance solutions for a city’s infrastructure by KONE
 <br>
 
-## :cloud: Graded Quiz
+## Graded Quiz
 - An IBM Institute for Business Value study says that more than three-quarters of enterprises today are using cloud computing to expand into new industries. What additional benefits do organizations find when adopting the cloud:
     ```
     ▷ Avoid having to fail at all

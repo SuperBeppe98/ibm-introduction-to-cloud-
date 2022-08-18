@@ -1,6 +1,6 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
-## :cloud: Learning Objectives
+## Learning Objectives
 - Define __Cloud Computing__
 - Describe the __Essential Characteristics__ of cloud computing
 - Briefly recount the __History and Evolution__ of cloud computing
@@ -9,7 +9,7 @@
 - Create an account on a public cloud platform
 <br>
 
-## :cloud: Definition and Characteristics
+## Definition and Characteristics
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@14cd6d3701454c40a8a8f7ba5db93246/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/f239a895d195492397c899a5745e83c2/?child=first)
 - __Definition__
     - the delivery of on-demand computing resources (everything from applications to data centers) over the internet on a pay-for-use basis.
@@ -32,7 +32,7 @@ and released with minimal management effort or service provider interaction.
         - "on-demand software."
 <br>
 
-## :cloud: History and Evolution
+## History and Evolution
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@65a489a3c7c949faa2602e2495e145f8/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/f2a071ff5d6d4e42ab9bc083ab2c5575/?child=first)
 - __History__ : shared access(1950's) > virtual machine(1970's)
 - __Virtualization__
@@ -41,7 +41,7 @@ and released with minimal management effort or service provider interaction.
     - Switch from 'Capital Expense' to 'Operating Expense'
 <br>
 
-## :cloud: Key Considerations
+## Key Considerations
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@bfab99392dda47bb92b8bf25b7e42d12/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/0a9d452ecc844730818f96b5b35d1447/?child=first)
 - __Key Drivers for Moving to Cloud__
     - Agility, flexibility, and competitiveness
@@ -57,7 +57,7 @@ and released with minimal management effort or service provider interaction.
 - __Challenges of Cloud Adoption__ <p><img src="https://user-images.githubusercontent.com/60066472/85097954-1c3c9f80-b234-11ea-9d88-6631ea972876.PNG" width="400"></p>
 <br>
 
-## :cloud: Key Service Providers
+## Key Service Providers
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@b18364b57ce64a03a08978489c29cc7a/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/97dfd2321ab2469c9b8ebaaecf03a508/bba31d89ba184d028d79de9c5e7f101a/?child=first)
 - __Future of Clouding Computing__
     - The question is “what” their cloud adoption strategy should be to best serve their businesses and customers.
@@ -74,13 +74,13 @@ with products and services <p><img src="https://user-images.githubusercontent.co
 - __SAP__: Enterprise software and applications such as ERP, CRM, HR, and Finance, running in the cloud.
 <br>
 
-## :cloud: Hands-on Lab: Create a Cloud Account
+## Hands-on Lab: Create a Cloud Account
 - Create an IBM Cloud Account: [link](https://cocl.us/ibmcloud_cc_cc0101en)
 - [instruction](https://courses.cognitiveclass.ai/assets/courseware/v1/3e0986ec272fee2357f937d3e5f592b4/asset-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@asset+block/Lab1-Create_an_IBM_Cloud_Account-v1.pdf)
 - Screenshot <p><img src="https://user-images.githubusercontent.com/60066472/85099435-5a3bc280-b238-11ea-82b5-ef262218e6f2.PNG" width="600"></p>
 <br>
 
-## :cloud: Module Summary
+## Module Summary
 - Cloud computing is the delivery of on-demand computing resources over the internet on a pay-as-you-go basis; <br>resources are dynamically assigned and reassigned among multiple users and scale up and down in response to users’ needs.
 - The origins of cloud computing can be traced back to the mainframes of the 1950s, with virtualization technologies and hypervisors serving as catalysts for the emergence of modern-day cloud computing.
 - Organizations must consider their business needs, investment viability, and risk capacity in order to create a cloud adoption strategy that delivers desired benefits without causing business disruptions and security, compliance, or performance issues.
@@ -88,7 +88,7 @@ with products and services <p><img src="https://user-images.githubusercontent.co
 - Some major Cloud providers of our times include AWS, Alibaba Cloud, Google, IBM Cloud, and Microsoft Azure.
 <br>
 
-## :cloud: Graded Quiz
+## Graded Quiz
 - In the US National Institute of Standards and Technology, NIST, definition of "cloud computing", what does the statement "shared pool of configurable computing resources" include?
   ```
   ▷ Five essential characteristics, three deployment models, three service models

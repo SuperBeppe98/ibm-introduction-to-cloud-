@@ -1,18 +1,18 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
-## :cloud: Learning Objectives
+## Learning Objectives
 - Describe the features, benefits, and use cases for the __3 main cloud service models—IaaS, PaaS, and SaaS__
 - Describe the features, benefits, and use cases for the __3 main cloud deployment models—Public, Private, and Hybrid__
 <br>
 
-## :cloud:  Overview of Cloud Service Models
+##  Overview of Cloud Service Models
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@7edc4597c821482aaa4ee9a380ba2edf/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/cfa9d9d4896b421580cbc41946933d2b/?child=first)
 - __SaaS__: Anyone, Youtube-user / easiest to use
 - __PaaS__: Dev _(Jane)_
 - __IaaS__: System-Admin / most complex<p><img src="https://user-images.githubusercontent.com/60066472/85106613-73983b00-b247-11ea-819d-431d8e0694ab.PNG" width="450"></p>
 <br>
 
-## :cloud:  IaaS
+##  IaaS
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@3e161265f05b47e29027ad41449ef42b/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/966d958ad1de4869b7261933cc22ed80/?child=first)
 - __Infrastructure-as-a-Service__
     - delivers fundamental compute, network, and storage resources to consumers on-demand
@@ -31,7 +31,7 @@
     - for Big Data Anlaysis
 <br>
 
-## :cloud:  PaaS
+##  PaaS
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@7469c2723e7243a98b6d59b81216200a/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/6fdae28eb0174155bab4e328d7413d25/?child=first)
 - __Platform-as-a-Service__
     - provides customers a complete platform—hardware, software, and infrastructure—to develop, deploy, manage, and run applications created by them or acquired from a third-party.
@@ -56,7 +56,7 @@
 Cloud, Force.com, and Apache Stratos.
 <br>
 
-## :cloud:  Saas
+##  Saas
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@ba63830ea23043a185b5700e71d1b37d/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/19466cff3d494847b827a098a63c3c17/?child=first)
 - __Software as a Service__
     - provides users with access to a service provider’s cloud-based software.
@@ -83,7 +83,7 @@ Cloud, Force.com, and Apache Stratos.
 
 <br>
 
-## :cloud:  Public Cloud
+##  Public Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@0bcbac3304194b7b8d122c88df05c89b/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/4530c968727749c4b3a7ea7f1257095f/?child=first)
 - __Deplyment models indicate ...__
     - where the infrastructure resides
@@ -107,7 +107,7 @@ Cloud, Force.com, and Apache Stratos.
     - for Outsourcing the management of standardized business platform
 <br>
 
-## :cloud:  Private Cloud
+##  Private Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@2ed21ff3395f4103a6530f24556c67ed/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/22b6d672d99a46fea67cc7bf5f485cb5/?child=first)
 - __Private Cloud__
     - NIST's definition
@@ -126,7 +126,7 @@ Cloud, Force.com, and Apache Stratos.
     - To fully control over critical security issues
 <br>
 
-## :cloud:  Hybrid Cloud
+##  Hybrid Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@ca793791c61e46ddb1be16fece230f70/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/1142dbf8fec941eba14de0502ea749ad/5c2e253e37014dc7ba5b82a06f43520a/?child=first)
 - __Hybrid Cloud__
     - mix of public and private cloud
@@ -150,7 +150,7 @@ Cloud, Force.com, and Apache Stratos.
 <br>
 
 
-## :cloud: Module Summary
+## Module Summary
 - Cloud computing allows us to utilize technology as a service, leveraging remote resources on-demand, on a pay-as-you-model. There are three main service models available on the cloud—Infrastructure-as-a-Service, Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS).
     - IaaS provides the fundamental compute, network, and storage resources for customers on-demand.
     - PaaS provides customers the hardware, software, and infrastructure to develop, deploy, manage, and run applications created by them or acquired from a third-party.
@@ -162,7 +162,7 @@ Cloud, Force.com, and Apache Stratos.
 <br>
 
 
-## :cloud: Graded Quiz
+## Graded Quiz
 - Which are some of the key components of cloud infrastructure? Select two.
     ```
     ▷ IaaS providers manage the hypervisors and provision virtual instances

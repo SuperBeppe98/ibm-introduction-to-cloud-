@@ -1,13 +1,13 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
-## :cloud: Learning Objectives
+## Learning Objectives
 - Describe the emergent cloud trends such as __Hybrid Multicloud, Microservices, and Serverless__
 - Explain how __Cloud Native Applications__ work
 - Explain how __DevOps__ helps tackle some of the complexities posed by cloud
 - Describe the benefits of __Application Modernization__ and how organizations can modernize their applications
 <br>
 
-## :cloud: Hybrid Multi-Cloud
+## Hybrid Multi-Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@e69f762163344163ac26f6b2ec0bc7c3/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/cc961f317bf648b0b55b33637ef95e34/73f2d32c3cc74ee79f26769dbe5f365b/?child=first)
 - __Hybrid Multi-Cloud__
     - leverage the best of cloud models and services across different service providers, and have your applications and workloads working seamlessly across multiple different clouds.
@@ -23,7 +23,7 @@
     - machine learning with legacy data
 <br>
 
-## :cloud: Micro-Services
+## Micro-Services
 - [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/cc961f317bf648b0b55b33637ef95e34/17ee28b7a30e4ba98f35bef10b01fdbb/?child=first)
 - __Micro-Services__<p><img src="https://user-images.githubusercontent.com/60066472/85143030-2be3d480-b284-11ea-9faa-c3abe7c59137.PNG" width="500"></p>
     - have their own stack running on their own containers
@@ -40,7 +40,7 @@
     - join the application with service discovery which creates a roadmap for microservices to communicate
 <br>
 
-## :cloud: Serverless Computing
+## Serverless Computing
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@5e0ea4e5ba5148b897c20cd5477d47c8/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/cc961f317bf648b0b55b33637ef95e34/455e2cbdda664173b3a17a7dc42b3601/?child=first)
 - __Serverless__
     - an approach to computing that offloads responsibility for common infrastructure management tasks 
@@ -63,7 +63,7 @@
 - __Concerns__: vendor-dependent, sometimes need to start up from zero to serve a new request
 <br>
 
-## :cloud: Cloud Native
+## Cloud Native
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@9ef1b73c51ad48ce8e622a59190cfa90/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/cc961f317bf648b0b55b33637ef95e34/834275e9df49433abac1bf5853ff79fb/?child=first)
 - __Cloud Navtive Application__
     - developed from the outset to work only in the cloud environment
@@ -79,7 +79,7 @@
 - __Use Cases__: everything<p><img src="https://user-images.githubusercontent.com/60066472/85147510-ef1adc00-b289-11ea-8713-566f6b1e58f0.PNG" width="600"></p>
 <br>
 
-## :cloud: DevOps on the Cloud
+## DevOps on the Cloud
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@10c255387b2e4188b08f015c96a80639/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/cc961f317bf648b0b55b33637ef95e34/fe5f22d6462945b4957065f1dd7ddab5/?child=first)
 - __DevOps__
     - Development teams + Operation teams
@@ -93,7 +93,7 @@ suppliers, partners.<p><img src="https://user-images.githubusercontent.com/60066
     - businesses can seize market opportunities and reduce time to include customer feedback in their products.
 <br>
 
-## :cloud: Application Modernization
+## Application Modernization
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@285fd521a2db46ab82121b270a0796b0/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/cc961f317bf648b0b55b33637ef95e34/10ff20161c4e40979ee46bc36e397cf4/?child=first)
 - __Application Modernization__<p><img src="https://user-images.githubusercontent.com/60066472/85149298-15da1200-b28c-11ea-918d-541bc1ab35cb.PNG" width="500"></p>
 - __Architecture__
@@ -104,7 +104,7 @@ suppliers, partners.<p><img src="https://user-images.githubusercontent.com/60066
     - Waterfall > Agile > DevOps and SRE_(Site Reliability Engineering)_
 <br>
 
-## :cloud: Module Summary
+## Module Summary
 - Hybrid Multicloud is a cloud adoption strategy that makes it possible for public clouds, private clouds, and on-premises IT to interoperate seamlessly while leveraging the best cloud-based services from different public cloud providers.
 - Microservices architecture is an approach in which an application is built as a collection of loosely coupled and independently deployable components or services, leading to efficient development, maintenance, and upgradation cycles.
 - Serverless Computing is an approach to computing that offloads responsibility for common infrastructure management tasks for application runtimes to cloud providers, allowing developers to focus their time and effort on development and testing, and not have to worry about provisioning, maintaining and scaling compute resources.
@@ -112,7 +112,7 @@ suppliers, partners.<p><img src="https://user-images.githubusercontent.com/60066
 - DevOps is a collaborative approach that enables development and operations teams to continuously deliver software in quick iterative cycles while reducing overhead, duplication, and rework. DevOps’ tools, practices, and processes help tackle the complexities and challenges posed by the cloud, allowing solutions to be delivered and updated —quickly and reliably.
 - Application Modernization helps organizations accelerate their digital transformation, take advantage of new technologies and services, and become more responsive to changing market dynamics. Cloud computing is one of the key enablers of application modernization.
 
-## :cloud: Graded Quiz
+## Graded Quiz
 - What are the key elements of a hybrid Multicloud strategy?
     ```
     ▷ For seamless working, it is recommended that if you’re subscribed to the infrastructure services of a cloud provider, you should subscribe to the application services provided by the same vendor.

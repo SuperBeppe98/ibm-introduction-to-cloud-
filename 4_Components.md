@@ -1,6 +1,6 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
-## :cloud: Learning Objectives
+## Learning Objectives
 - Describe the key __Components of Cloud Infrastructure__
 - Explain __Virtualization__
 - List the features and benefits of __VM__
@@ -9,7 +9,7 @@
 - Explain how __Contain-Based Technology__ works
 <br>
 
-## :cloud: Overview of Cloud Infrastructure
+## Overview of Cloud Infrastructure
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/7911d77997974117b947310ccf27dd5f/57d8120d5a424213875dc7f57ea6e63d/?child=first) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@6236980184f14fe6a71bf60219a76638/handler/transcript/download)
 - __Cloud Region__
     - a geographic area or location where a Cloud provider’s infrastructure is clustered
@@ -30,7 +30,7 @@
 - __Networking Options__: routers, switchs, security groups, ACLs, VLANs, VPCs, VPNs, firewalls, load balancers, gateways, traffic analyzers, CDNs
 <br>
 
-## :cloud: Virtualization and Virtual Machines Explained
+## Virtualization and Virtual Machines Explained
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@62ab0ac191ea4a1fa3ce331d647f32eb/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/7911d77997974117b947310ccf27dd5f/3bfdcb6156764d8fa7d7a400301281ea/?child=first)
 - __Virtualization__
     - the process of creating a software based, or virtual, version of something,
@@ -44,7 +44,7 @@
 - __Advantages__: cost-saving, agility & speed, less downtime
 <br>
 
-## :cloud: Types of Virtual Machines
+## Types of Virtual Machines
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@d9406acb05cb43f697c9292bf1119df9/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/7911d77997974117b947310ccf27dd5f/143872e898c745c387b5b3cc1e659cf7/?child=first)
 - __Virtual Machines__
     - Also called as...: Virtual Servers, Virtual Instances, Instances
@@ -65,7 +65,7 @@ for a specific duration.
     - typically used for meeting compliance and regulatory requirements or meet specific licensing terms.
 <br>
 
-## :cloud: Bare Metal Servers
+## Bare Metal Servers
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@a762042f32f34547bb704ecf36057c6d/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/7911d77997974117b947310ccf27dd5f/fac564e25810496aaf04254375af7068/?child=first)
 - __Bare Metal Server__
     - a single-tenant, dedicated physical server.
@@ -82,14 +82,14 @@ for a specific duration.
     - High degrees of Security Controls<p><img src="https://user-images.githubusercontent.com/60066472/85121007-05f80900-b25f-11ea-99f2-05ed1eebcfb6.PNG" width="400"></p>
 <br>
 
-## :cloud: Secure Cloud Networking
+## Secure Cloud Networking
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@759961f8aabb497ca9d1e69ff6e3b31e/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/7911d77997974117b947310ccf27dd5f/19964f82705f4ce58f1844e7fdaa341e/?child=first)
 - __Secure Network__
     - building a cloud network vs deploying a network in an on-premises data center<p><img src="https://user-images.githubusercontent.com/60066472/85121199-58392a00-b25f-11ea-96f7-af851fbf025b.PNG" width="400"></p>
     - how to build a secure cloud networking presence<p><img src="https://user-images.githubusercontent.com/60066472/85121536-e6151500-b25f-11ea-969d-f5e9a2409699.PNG" width="400"></p>
 <br>
 
-## :cloud: Containers
+## Containers
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@d60637837db24016b695ff1afe780721/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/7911d77997974117b947310ccf27dd5f/e0ae9fd1f7ad4f9fbdf18f4c12baa026/?child=first)
 - __Containers__
     - an executable unit of software 
@@ -99,7 +99,7 @@ for a specific duration.
     - do not need to include a guest OS in every instance and unlike virtual machines <p><img src="https://user-images.githubusercontent.com/60066472/85122251-380a6a80-b261-11ea-962c-b7bf821b59ac.PNG" width="400"></p>
 <br>
 
-## :cloud: Module Summary
+## Module Summary
 - Cloud infrastructure consists of data centers, storage, networking components, and compute resources.
 - Virtualization is the process of creating a software-based version of physical resources, made possible through the use of hypervisors. 
 - A few different types of Virtual Machines can be provisioned on the cloud. These include:
@@ -112,7 +112,7 @@ for a specific duration.
 - Containers are an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere—desktops, traditional IT, or the cloud. Containers are lighter weight and consume fewer resources than Virtual Machines - helping streamline the development and deployment of cloud native applications.
 <br>
 
-## :cloud: Graded Quiz
+## Graded Quiz
 - Is it possible to run completely different operating systems on Virtual Machines (VMs) that are on a single host? If yes, what makes this possible?
     ```
     ▷ Yes, Containerization makes it possible—to have VMs that are unique physical entities, so you can have completely different Operating Systems on them.
