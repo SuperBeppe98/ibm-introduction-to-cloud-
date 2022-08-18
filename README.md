@@ -1,4 +1,3 @@
-[__Free Course__: IBM Cloud Core](https://cognitiveclass.ai/badges/cloud-core) <br>
 [__Free Cloud Service__: IBM Cloud Object Storage](https://cocl.us/objectstorage_cc_cc0101en)
 
 ## Course Syllabus
