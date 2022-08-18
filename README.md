@@ -16,7 +16,6 @@
 - Various cloud service models (IaaS, PaaS, SaaS) and deployment models (Public Cloud, Private Cloud, Hybrid Cloud) and the key components of cloud architecture (Virtualization, VMs, Storage, Networking, Containers)
 - Emerging trends associated with cloud including, Hybrid Multicloud, Microservices, Serverless, Cloud Native, DevOps, and Application modernization
 -  Case studies and career opportunities related to cloud computing.
-　　　<p><img src="https://user-images.githubusercontent.com/60066472/85094827-b39cf500-b22a-11ea-924f-47b42bb6689a.PNG" width="500"></p>
 <br>
 
 ## Grading Scheme
