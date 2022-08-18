@@ -1,7 +1,7 @@
 [__Free Course__: IBM Cloud Core](https://cognitiveclass.ai/badges/cloud-core) <br>
 [__Free Cloud Service__: IBM Cloud Object Storage](https://cocl.us/objectstorage_cc_cc0101en)
 
-## :cloud: Course Syllabus
+## Course Syllabus
 - Module 1: [Overview of Cloud Computing](./1_Overview.md)
 - Module 2: [Cloud Adoption and Emerging Technologies on the Cloud](./2_Cloud_Adoption.md)
 - Module 3: [Cloud Computing Service and Deployment Models](./3_Service_and_Deployment_Models.md)
@@ -11,7 +11,7 @@
 - [Final Exam](./7_Final_Exam.md)
 <br>
 
-## :cloud: Course Overview
+## Course Overview
 - Definition and essential characteristics of cloud computing, its history, emerging trends, and the business case for cloud computing. 
 - Various cloud service models (IaaS, PaaS, SaaS) and deployment models (Public Cloud, Private Cloud, Hybrid Cloud) and the key components of cloud architecture (Virtualization, VMs, Storage, Networking, Containers)
 - Emerging trends associated with cloud including, Hybrid Multicloud, Microservices, Serverless, Cloud Native, DevOps, and Application modernization
@@ -19,9 +19,9 @@
 　　　<p><img src="https://user-images.githubusercontent.com/60066472/85094827-b39cf500-b22a-11ea-924f-47b42bb6689a.PNG" width="500"></p>
 <br>
 
-## :cloud: Grading Scheme
+## Grading Scheme
 - Graded Quiz(50%, no time limit) + Final Exam(50%, 1-hour time limit)
 <br>
 
-## :cloud: Badge & Certificate
+## Badge & Certificate
 <p><img src="https://user-images.githubusercontent.com/60066472/85192741-9b96a580-b2fe-11ea-90d6-45d4ae893e17.PNG" width="500"></p>
